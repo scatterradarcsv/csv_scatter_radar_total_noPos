@@ -6,10 +6,10 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 14,11.29,87,36,16.09,25,45.45,2,17,123,101,92,43.67,64,Adam Buksa,adam-buksa,Antalyaspor,
 13,12.33,88,38,14.77,16,44.44,4,15,119,62,71,44.19,35,Krzysztof Piątek,krzysztof-piatek,Başakşehir FK,
 12,12.19,71,26,16.9,27,45.76,13,69,235,76,17,41.89,24,Kerem Aktürkoğlu,kerem-akturkoglu,Galatasaray,
-12,7.54,84,29,14.29,15,68.18,3,35,405,107,42,57.31,36,Aytaç Kara,aytac-kara,Kasımpaşa,
-12,7.87,53,20,22.64,36,55.38,3,22,109,92,49,49.82,41,Nuno Da Costa,nuno-da-costa,Kasımpaşa,
+12,7.58,84,29,14.29,15,68.18,3,35,406,107,42,57.31,36,Aytaç Kara,aytac-kara,Kasımpaşa,
+12,7.71,52,20,23.08,36,55.38,3,22,109,92,49,49.82,41,Nuno Da Costa,nuno-da-costa,Kasımpaşa,
 11,3.75,37,20,29.73,32,55.17,8,47,304,97,21,49.17,41,İrfan Can Kahveci,irfan-can-kahveci,Fenerbahçe,
-11,9.96,86,32,12.79,75,51.72,8,31,171,162,61,40.25,37,Denis Drăguş,denis-dragus,Gaziantep FK,
+11,9.98,86,32,12.79,75,51.72,8,31,171,162,63,40.32,37,Denis Drăguş,denis-dragus,Gaziantep FK,
 11,10.26,54,18,20.37,20,45.45,5,24,112,61,36,33.11,21,Sokol Cikalleshi,sokol-cikalleshi,Konyaspor,
 10,4.71,50,21,20.0,31,50.82,2,12,68,64,17,37.67,23,Semih Kılıçsoy,semih-kilicsoy,Beşiktaş,
 10,10.51,41,23,24.39,3,42.86,1,4,48,11,6,34.0,3,Michy Batshuayi,michy-batshuayi,Fenerbahçe,
@@ -22,7 +22,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 9,4.12,42,13,21.43,24,54.55,7,33,176,62,4,48.53,20,Efkan Bekiroğlu,efkan-bekiroglu,,MKE Ankaragücü
 8,5.77,45,15,17.78,9,64.29,2,12,51,37,80,48.35,23,Paul Onuachu,paul-onuachu,,Trabzonspor
 8,5.93,30,15,26.67,6,46.15,0,9,41,19,14,35.48,10,M'Baye Niang,mbaye-niang,,Adana Demirspor
-8,5.8,46,17,17.39,25,47.17,4,46,154,78,28,43.27,34,Mamadou Fall,mamadou-fall,,Kasımpaşa
+8,5.8,46,17,17.39,25,47.17,4,46,154,78,27,43.03,34,Mamadou Fall,mamadou-fall,,Kasımpaşa
 8,6.99,46,15,17.39,27,42.86,3,14,128,69,13,37.96,31,Dal Varešanović,dal-varesanovic,,Çaykur Rizespor
 7,7.41,64,20,10.94,32,72.73,7,43,257,159,30,58.7,64,Emre Akbaba,emre-akbaba,,Adana Demirspor
 7,4.83,55,19,12.73,37,45.68,2,26,163,85,22,39.05,34,Güven Yalçın,guven-yalcin,,Fatih Karagümrük
@@ -57,7 +57,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 5,3.92,40,14,12.5,26,44.07,6,22,160,96,18,44.19,42,Yusuf Erdoğan,yusuf-erdogan,,Adana Demirspor
 5,5.77,34,14,14.71,3,37.5,2,7,67,29,12,44.57,23,Serdar Dursun,serdar-dursun,,Fenerbahçe
 5,2.59,27,16,18.52,22,44.9,0,10,104,57,13,40.7,20,Louka Prip,prip-louka,,Konyaspor
-4,4.63,58,17,6.9,23,60.53,11,87,446,141,22,50.94,63,Haris Hajradinović,haris-hajradinovic,,Kasımpaşa
+4,4.68,58,17,6.9,23,60.53,11,87,446,141,22,50.78,63,Haris Hajradinović,haris-hajradinovic,,Kasımpaşa
 4,1.4,14,5,28.57,24,66.67,7,68,232,107,23,62.8,15,Guilherme Haubert Sityá,guilherme-haubert-sitya,,Konyaspor
 4,2.68,27,7,14.81,11,61.11,1,8,133,50,78,61.24,17,Abdülkerim Bardakcı,abdulkerim-bardakci,Galatasaray,
 4,2.71,41,12,9.76,8,57.14,4,25,187,59,9,52.71,25,Anastasios Bakasetas,anastasios-bakasetas,Trabzonspor,
@@ -68,7 +68,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 4,3.12,23,10,17.39,24,57.14,1,16,134,38,3,48.24,6,Alex Oxlade-Chamberlain,alex-oxlade-chamberlain,Beşiktaş,
 4,3.95,51,18,7.84,20,43.48,7,39,180,70,7,44.25,27,Milot Rashica,milot-rashica,Beşiktaş,
 4,2.59,36,10,11.11,43,48.86,2,54,270,90,4,41.96,17,Sam Larsson,sam-larsson,Antalyaspor,
-4,2.19,21,6,19.05,0,0.0,1,5,64,57,62,60.1,20,Arda Kızıldağ,arda-kizildag,Gaziantep FK,
+4,2.2,21,6,19.05,0,0.0,1,5,64,58,62,60.3,20,Arda Kızıldağ,arda-kizildag,Gaziantep FK,
 4,3.89,49,18,8.16,43,47.78,6,29,219,127,22,44.08,25,Halil Akbunar,halil-akbunar,Pendikspor,
 4,2.21,20,6,20.0,15,48.39,5,22,86,63,22,41.46,26,Benhur Keser,benhur-keser,Çaykur Rizespor,
 4,2.07,30,10,13.33,12,42.86,1,23,205,75,22,46.41,38,Marcus Rohdén,marcus-rohden,Fatih Karagümrük,
@@ -80,7 +80,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 4,6.51,30,17,13.33,16,44.44,2,18,125,63,18,39.51,29,Emir Kaan Gültekin,emir-kaan-gultekin,İstanbulspor,
 3,3.24,36,10,8.33,15,44.12,7,26,304,79,4,46.11,30,Fred,fred,Fenerbahçe,
 3,2.92,59,24,5.08,45,58.44,9,48,158,89,2,52.91,23,Yusuf Sarı,yusuf-sari,Adana Demirspor,
-3,5.56,37,16,8.11,30,52.63,12,68,317,92,12,44.07,32,Alexandru Maxim,alexandru-maxim,Gaziantep FK,
+3,5.6,37,16,8.11,30,52.63,12,68,317,92,13,44.3,32,Alexandru Maxim,alexandru-maxim,Gaziantep FK,
 3,2.98,22,7,13.64,26,65.0,4,14,89,52,24,47.8,17,Didier Lamkel Zé,didier-lamkel-ze,Hatayspor,
 3,0.92,4,3,75.0,22,61.11,1,8,119,75,8,58.45,22,Bright Osayi-Samuel,bright-osayi-samuel,Fenerbahçe,
 3,0.86,23,5,13.04,11,73.33,2,34,189,86,21,56.02,28,Pedrinho,pedrinho,MKE Ankaragücü,
@@ -94,7 +94,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 3,4.55,41,19,7.32,40,56.34,3,14,66,90,13,47.25,24,Renaldo Cephas,renaldo-cephas,MKE Ankaragücü,
 3,2.54,45,10,6.67,33,46.48,4,20,205,134,20,46.53,59,Dario Šarić,dario-saric,Antalyaspor,
 3,2.2,16,6,18.75,3,33.33,4,9,55,40,7,43.93,20,Mehdi Abeid,mehdi-abeid,Başakşehir FK,
-3,3.07,29,8,10.34,36,62.07,2,23,227,137,53,51.35,34,Cláudio Winck,claudio-winck,Kasımpaşa,
+3,3.07,29,8,10.34,36,62.07,2,22,227,138,53,51.34,34,Cláudio Winck,claudio-winck,Kasımpaşa,
 3,3.11,20,8,15.0,9,45.0,0,6,59,36,34,46.98,17,Sergio Córdova,sergio-cordova,Alanyaspor,
 3,3.52,30,10,10.0,7,63.64,0,7,52,28,67,45.45,10,Ercan Kara,ercan-kara,Yılport Samsunspor,
 3,5.43,33,7,9.09,33,45.83,4,21,121,87,24,42.69,33,Babajide David Akintola,babajide-david-akintola,Çaykur Rizespor,
@@ -112,7 +112,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 2,0.94,15,8,13.33,5,50.0,1,16,202,33,75,65.85,8,Steven​ N'Zonzi,steven-nzonzi,,Konyaspor
 2,3.09,20,9,10.0,31,49.21,7,45,307,153,16,57.29,73,Efecan Karaca,efecan-karaca,,Alanyaspor
 2,1.65,17,5,11.76,6,60.0,0,0,27,44,67,63.07,13,Caner Osmanpaşa,caner-osmanpasa,,Sivasspor
-2,1.72,51,15,3.92,6,54.55,1,14,182,92,61,65.11,40,Gökhan Gül,gokhan-gul,,Kasımpaşa
+2,1.72,51,15,3.92,6,54.55,1,14,182,92,61,64.56,40,Gökhan Gül,gokhan-gul,,Kasımpaşa
 2,0.87,23,3,8.7,16,80.0,1,8,122,70,30,54.35,21,Andreaw Gravillon,andreaw-gravillon,,Adana Demirspor
 2,1.75,25,5,8.0,18,90.0,4,25,239,46,3,47.57,5,Nicolas Janvier,nicolas-janvier,,Alanyaspor
 2,0.47,17,5,11.76,7,53.85,3,23,137,52,17,54.76,18,Jure Balkovec,jure-balkovec,,Alanyaspor
@@ -129,7 +129,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 2,1.08,17,6,11.76,4,66.67,1,9,103,69,35,59.09,21,Welinton,welinton,,Pendikspor
 2,1.77,16,8,12.5,9,47.37,1,9,64,51,4,49.11,17,Taxiarchis Fountas,taxiarchis-fountas,,Trabzonspor
 2,1.56,18,9,11.11,18,51.43,2,20,127,39,3,40.0,8,Lazar Marković,lazar-markovic,,Gaziantep FK
-2,0.93,17,4,11.76,3,50.0,0,5,81,49,37,61.43,19,Marko Jevtović,marko-jevtovic,,Gaziantep FK
+2,0.93,17,4,11.76,3,50.0,0,5,81,50,37,61.7,19,Marko Jevtović,marko-jevtovic,,Gaziantep FK
 2,0.7,9,4,22.22,7,63.64,1,11,64,13,1,45.16,2,Robert Murić,robert-muric,,Konyaspor
 2,2.98,35,9,5.71,26,40.0,5,28,132,65,8,37.82,27,Valon Ethemi,valon-ethemi,,Konyaspor
 2,1.18,14,3,14.29,9,37.5,3,12,84,37,4,47.13,13,Carlos Mané,carlos-mane,,Kayserispor
@@ -157,8 +157,8 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 1,0.75,6,1,16.67,5,83.33,0,1,34,51,63,72.61,25,Bahadır Öztürk,bahadir-ozturk,Antalyaspor,
 1,0.68,14,1,7.14,35,66.04,5,27,263,135,23,56.83,25,Münir Levent Mercan,munir-levent-mercan,Fatih Karagümrük,
 1,0.24,7,2,14.29,12,54.55,5,17,162,112,33,59.92,47,Ahmet Oğuz,ahmet-oguz,Konyaspor,
-1,1.01,12,6,8.33,4,44.44,1,10,103,38,54,60.93,2,Kenneth Omeruo,kenneth-omeruo,Kasımpaşa,
-1,0.71,18,3,5.56,37,47.44,8,27,210,164,19,56.31,67,Mustafa Eskihellaç,mustafa-eskihellac,Gaziantep FK,
+1,1.01,12,6,8.33,4,44.44,1,10,103,38,55,61.18,2,Kenneth Omeruo,kenneth-omeruo,Kasımpaşa,
+1,0.77,18,3,5.56,37,47.44,8,27,210,164,19,56.13,67,Mustafa Eskihellaç,mustafa-eskihellac,Gaziantep FK,
 1,2.05,17,3,5.88,5,71.43,3,14,120,47,64,65.68,8,Papy Djilobodji,papy-djilobodji,,Gaziantep FK
 1,1.68,26,5,3.85,4,66.67,0,5,114,90,59,55.81,22,Veysel Sarı,veysel-sari,,Antalyaspor
 1,0.61,12,5,8.33,3,75.0,3,23,88,31,31,57.41,10,Faouzi Ghoulam,faouzi-ghoulam,,Hatayspor
@@ -206,10 +206,10 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 1,0.22,3,1,33.33,1,50.0,1,8,46,15,3,46.15,9,Tayfun Aydoğan,tayfun-aydogan,,Adana Demirspor
 1,0.82,9,3,11.11,4,80.0,0,2,21,10,5,45.45,3,Leandro Kappel,leandro-kappel,,Pendikspor
 1,1.66,20,7,5.0,16,53.33,1,13,143,55,18,44.24,14,Taylan Antalyalı,taylan-antalyali,,Yılport Samsunspor
-1,0.9,18,3,5.56,8,42.11,2,11,117,80,62,53.79,14,Yasin Özcan,yasin-ozcan,,Kasımpaşa
+1,0.9,18,3,5.56,8,42.11,2,11,117,80,64,53.93,14,Yasin Özcan,yasin-ozcan,,Kasımpaşa
 1,0.76,19,6,5.26,4,66.67,2,16,93,52,11,48.84,17,Ali Yaşar,ali-yasar,,İstanbulspor
 1,0.92,9,3,11.11,2,40.0,1,1,48,35,40,54.35,15,Salih Dursun,salih-dursun,,Fatih Karagümrük
-1,2.38,24,8,4.17,19,48.72,6,24,119,76,13,43.2,28,Max Gradel,max-gradel,,Gaziantep FK
+1,2.38,24,8,4.17,19,47.5,6,24,119,76,13,43.2,28,Max Gradel,max-gradel,,Gaziantep FK
 1,1.34,14,5,7.14,12,50.0,2,11,73,48,9,40.43,18,Emirhan İlkhan,emirhan-ilkhan,,Başakşehir FK
 1,2.25,22,8,4.55,16,51.61,3,16,43,27,10,32.17,7,Julien Ngoy,julien-ngoy,,Kasımpaşa
 1,2.07,13,4,7.69,13,54.17,0,4,25,34,27,46.92,17,Philippe Keny,philippe-keny,,Başakşehir FK
@@ -257,7 +257,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 0,1.45,12,3,0.0,4,80.0,0,6,95,66,42,57.14,34,Fidan Aliti,fidan-aliti,,Alanyaspor
 0,0.61,12,3,0.0,9,64.29,0,1,79,66,44,59.46,20,Mehmet Yeşil,mehmet-yesil,,İstanbulspor
 0,0.68,11,0,0.0,20,55.56,0,16,166,99,13,58.33,27,Stelios Kitsiou,stelios-kitsiou,,MKE Ankaragücü
-0,1.15,21,4,0.0,16,44.44,2,6,52,52,21,54.07,13,Oğulcan Çağlayan,ogulcan-caglayan,,Kasımpaşa
+0,1.14,21,4,0.0,16,43.24,2,6,52,52,21,54.07,13,Oğulcan Çağlayan,ogulcan-caglayan,,Kasımpaşa
 0,0.65,8,0,0.0,26,61.9,5,21,190,85,20,54.12,12,Muhammet Taha Şahin,muhammet-taha-sahin,,Çaykur Rizespor
 0,0.16,3,1,0.0,3,50.0,1,12,83,21,8,56.86,3,Berkan Kutlu,berkan-kutlu,Galatasaray,
 0,0.62,5,0,0.0,9,56.25,1,5,130,68,47,56.93,18,Davide Biraschi,davide-biraschi,Fatih Karagümrük,
