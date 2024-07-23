@@ -23,7 +23,7 @@ Gol,Başarılı Top Sürme,Başarılı Top Sürme %,Toplam Şut,İsabetli Şut,Y
 9,9,37.5,43,19,4,272,73.91,21,15,14,11,5,31,5,38.71,11,Cengiz Ünder,cengiz-under,Fenerbahçe,
 9,31,57.41,52,16,9,787,81.81,39,6,31,20,5,74,4,48.75,23,Efkan Bekiroğlu,efkan-bekiroglu,MKE Ankaragücü,
 9,8,40.0,42,23,0,223,59.95,16,0,3,20,4,63,80,52.96,37,Enis Destan,enis-destan,Trabzonspor,
-9,39,45.35,58,21,2,451,71.82,28,6,18,15,8,91,25,39.59,38,Güven Yalçın,guven-yalcin,Fatih Karagümrük,
+9,39,45.35,58,21,2,451,71.82,28,6,18,15,8,91,25,39.46,38,Güven Yalçın,guven-yalcin,Fatih Karagümrük,
 9,14,50.0,70,27,1,245,55.43,10,1,2,6,1,45,104,37.44,25,Marius Mouandilmadji,marius-mouandilmadji,Yılport Samsunspor,
 8,65,58.04,64,25,5,711,77.88,39,7,41,63,38,208,38,53.25,81,Ibrahim Olawoyin,ibrahim-olawoyin,Çaykur Rizespor,
 8,6,46.15,30,15,0,119,79.87,9,2,4,3,0,19,14,35.48,10,M'Baye Niang,mbaye-niang,Adana Demirspor,
@@ -207,7 +207,7 @@ Gol,Başarılı Top Sürme,Başarılı Top Sürme %,Toplam Şut,İsabetli Şut,Y
 1,22,64.71,23,7,3,629,82.98,14,2,59,44,22,77,18,45.45,11,Ali Kaan Güneren,ali-kaan-guneren,,MKE Ankaragücü
 1,8,57.14,11,3,1,348,77.68,15,4,21,15,7,32,13,35.71,9,Eduart Rroca,eduart-rroca,,İstanbulspor
 1,7,63.64,19,2,0,791,81.71,9,1,74,57,30,73,24,48.74,11,Youssef Aït Bennasser,youssef-ait-bennasser,,Yılport Samsunspor
-1,7,53.85,17,6,3,587,77.65,38,31,36,41,18,59,6,41.94,11,Casper Højer,casper-hojer,,Çaykur Rizespor
+1,8,57.14,17,6,3,587,77.65,38,31,36,41,18,60,6,42.31,11,Casper Højer,casper-hojer,,Çaykur Rizespor
 1,7,77.78,3,1,1,785,77.88,6,1,67,24,33,39,59,54.75,8,Ľubomír Šatka,ubomir-satka,,Yılport Samsunspor
 1,8,47.06,10,1,2,830,76.85,14,17,53,31,21,56,33,52.66,17,Lucas Lima,lucas-lima,,Başakşehir FK
 1,7,58.33,25,6,1,363,81.57,13,6,16,12,8,28,14,40.78,9,Danijel Aleksić,danijel-aleksic,,Başakşehir FK
@@ -265,7 +265,7 @@ Gol,Başarılı Top Sürme,Başarılı Top Sürme %,Toplam Şut,İsabetli Şut,Y
 0,2,100.0,6,0,0,655,91.23,2,0,31,10,10,24,29,66.25,13,Rodrigo Becão,rodrigo-becao,Fenerbahçe,
 0,7,70.0,5,0,1,452,82.94,13,8,47,28,18,45,8,56.99,10,Ömer Ali Şahiner,omer-ali-sahiner,Başakşehir FK,
 0,7,70.0,20,2,5,1361,87.69,18,9,83,30,15,68,28,49.74,31,Jakub Kałuziński,jakub-kaluzinski,Antalyaspor,
-0,29,63.04,8,0,6,960,78.75,27,24,82,58,52,104,26,53.5,18,Muhammet Taha Şahin,muhammet-taha-sahin,Çaykur Rizespor,
+0,29,61.7,8,0,6,961,78.84,27,24,82,58,52,104,26,53.5,18,Muhammet Taha Şahin,muhammet-taha-sahin,Çaykur Rizespor,
 0,21,40.38,17,3,0,908,81.88,29,14,57,61,48,122,43,56.31,40,Eren Elmalı,eren-elmali,Trabzonspor,
 0,11,50.0,9,0,0,336,73.04,6,2,23,49,16,84,28,66.27,25,Mehmet Aydın,mehmet-aydin,Trabzonspor,
 0,6,85.71,9,2,0,921,83.12,7,3,64,23,34,32,58,56.25,3,Simon Deli,simon-deli,İstanbulspor,
